@@ -1,0 +1,9 @@
+Spotfy:
+
+https://www.figma.com/proto/VRBdD5Kh5PdRi6iSkDHs4Q/Spotify?node-id=1-6&starting-point-node-id=1%3A2&t=gZUPBPkpVOlwlHIO-1
+
+Crunchyroll:
+
+https://www.figma.com/proto/Pv8q0VJkTa4vvYsytSRVWv/Prot%C3%B3tipo-Interativo-no-Figma?node-id=9-7&p=f&t=JBIaz3pjbDVoRjz7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A8&authuser=3
+
+https://www.figma.com/design/Pv8q0VJkTa4vvYsytSRVWv/Prot%C3%B3tipo-Interativo-no-Figma?node-id=0-1&t=7BgHM9uBKrSJJ9SK-1&authuser=3
